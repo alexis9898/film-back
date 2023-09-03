@@ -1,0 +1,234 @@
+﻿++Solution 'films-data' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:films-data.sln
+++films-data
+i:{00000000-0000-0000-0000-000000000000}:films-data
+++Connected Services 
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>577
+++Dependencies
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>576
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:>436
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:>435
+++Properties
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\properties\
+++Controllers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\controllers\
+++AccountController.cs
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\controllers\accountcontroller.cs
+++CategoryController.cs
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\controllers\categorycontroller.cs
+++FilmController.cs
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\controllers\filmcontroller.cs
+++ImageController.cs
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\controllers\imagecontroller.cs
+++appsettings.json
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\appsettings.json
+++Program.cs
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\program.cs
+++Startup.cs
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\startup.cs
+++No service dependencies discovered
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>578
+++Analyzers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:analyzers
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:analyzers
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:analyzers
+++Frameworks
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:frameworks
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:frameworks
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:frameworks
+++Packages
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:packages
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:packages
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:packages
+++Projects
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:projects
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:projects
+++launchSettings.json
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\properties\launchsettings.json
+++appsettings.Development.json
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\films-data\microsoft.netcore.app
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\microsoft.netcore.app
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\microsoft.netcore.app
+++AutoMapper (12.0.1)
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>610
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:>605
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.3)
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>611
+++Microsoft.EntityFrameworkCore.Design (5.0.3)
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>608
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.5)
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>607
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:>615
+++Microsoft.EntityFrameworkCore.Tools (5.0.3)
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>619
+++Swashbuckle.AspNetCore (5.6.3)
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:>609
+++BLL
+i:{9e538360-f5bc-4a76-93e7-a34e2b3fa8a2}:c:\users\alex\desktop\filmapp\films-data\bll\bin\debug\net5.0\bll.dll
+i:{00000000-0000-0000-0000-000000000000}:BLL
+++DAL
+i:{00000000-0000-0000-0000-000000000000}:DAL
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\dal\bin\debug\net5.0\dal.dll
+++Data
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\
+++AppUser.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\appuser.cs
+++Category.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\category.cs
+++Film.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\film.cs
+++FilmAppContext.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\filmappcontext.cs
+++FilmCategory.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\filmcategory.cs
+++Image.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\image.cs
+++UsersDetails.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\data\usersdetails.cs
+++Interface
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\interface\
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\interface\
+++ICategoryRepository.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\interface\icategoryrepository.cs
+++IFilmRepository.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\interface\ifilmrepository.cs
+++IImageRepository.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\interface\iimagerepository.cs
+++Migrations
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\
+++20230611120828_1.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230611120828_1.cs
+++20230613174432_4.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230613174432_4.cs
+++20230614113744_7.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614113744_7.cs
+++20230614113744_7.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614113744_7.designer.cs
+++20230614115836_8.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614115836_8.cs
+++20230614115836_8.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614115836_8.designer.cs
+++20230614133032_9.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614133032_9.cs
+++20230614133032_9.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614133032_9.designer.cs
+++20230614140738_a1.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614140738_a1.cs
+++20230614140738_a1.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614140738_a1.designer.cs
+++20230614181056_a2.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614181056_a2.cs
+++20230614181056_a2.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230614181056_a2.designer.cs
+++20230615155656_a3.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230615155656_a3.cs
+++20230615155656_a3.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230615155656_a3.designer.cs
+++FilmAppContextModelSnapshot.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\filmappcontextmodelsnapshot.cs
+++Repository
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\repository\
+++CategoryRepository.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\repository\categoryrepository.cs
+++FilmRepository.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\repository\filmrepository.cs
+++ImageRepository.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\repository\imagerepository.cs
+++20230611120828_1.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230611120828_1.designer.cs
+++20230613174432_4.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230613174432_4.designer.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.3)
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:>617
+++Microsoft.EntityFrameworkCore.Design (5.0.5)
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:>616
+++Microsoft.EntityFrameworkCore.Tools (5.0.5)
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:>618
+++IAccountService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\interface\iaccountservice.cs
+++ICategoryService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\interface\icategoryservice.cs
+++IFilmService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\interface\ifilmservice.cs
+++IImageService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\interface\iimageservice.cs
+++Mapper
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\mapper\
+++AppMapper.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\mapper\appmapper.cs
+++Model
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\model\
+++CategoryModel.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\model\categorymodel.cs
+++FilmModel.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\model\filmmodel.cs
+++ImageModel.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\model\imagemodel.cs
+++SignInModel.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\model\signinmodel.cs
+++SignUpModel.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\model\signupmodel.cs
+++UserModel.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\model\usermodel.cs
+++Service
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\service\
+++AccountService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\service\accountservice.cs
+++CategoryService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\service\categoryservice.cs
+++FilmService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\service\filmservice.cs
+++ImageService.cs
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:c:\users\alex\desktop\filmapp\films-data\bll\service\imageservice.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1)
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:>603
+++Microsoft.AspNetCore.JsonPatch (5.0.3)
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:>602
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (5.0.3)
+i:{b3388a9b-3af2-44db-85aa-e47ed1f4f12f}:>604
+++20230627164349_fc-11.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627164349_fc-11.cs
+++20230627164349_fc-11.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627164349_fc-11.designer.cs
+++20230627164604_fc-12.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627164604_fc-12.cs
+++20230627164604_fc-12.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627164604_fc-12.designer.cs
+++20230627175510_fc-13.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627175510_fc-13.cs
+++20230627175510_fc-13.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627175510_fc-13.designer.cs
+++20230627180851_fc-19.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627180851_fc-19.cs
+++20230627180851_fc-19.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230627180851_fc-19.designer.cs
+++20230628103238_fc-191.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230628103238_fc-191.cs
+++20230628103238_fc-191.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230628103238_fc-191.designer.cs
+++20230628104600_fc-1-1.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230628104600_fc-1-1.cs
+++20230628104600_fc-1-1.Designer.cs
+i:{df4a92d3-1929-49fd-b099-eded16f6f2c5}:c:\users\alex\desktop\filmapp\films-data\dal\migrations\20230628104600_fc-1-1.designer.cs
